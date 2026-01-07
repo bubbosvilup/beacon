@@ -11,3 +11,8 @@ High-level technical log (sanitized).
 - Risultato: minor rumore, più segnale nelle verifiche.
 - Next: micro-iterazione su stabilità e naming coerente.
 
+## 2026-01-07
+- Ridurre latenza del percorso critico con micro-ottimizzazioni.
+- Risultato: codice piA1 leggibile e prevedibile.
+- Next: rimuovere fallback temporanei introdotti per sblocco.
+
