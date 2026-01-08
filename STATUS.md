@@ -16,3 +16,8 @@ High-level technical log (sanitized).
 - Risultato: codice piA1 leggibile e prevedibile.
 - Next: rimuovere fallback temporanei introdotti per sblocco.
 
+## 2026-01-08
+- Chiudere debiti veloci che bloccano refactor piu grandi.
+- Risultato: pipeline di deployment meno rumorosa e piu veloce.
+- Next: micro-iterazione su stabilitAÿ e naming coerente.
+
