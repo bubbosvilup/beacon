@@ -21,3 +21,8 @@ High-level technical log (sanitized).
 - Risultato: pipeline di deployment meno rumorosa e piu veloce.
 - Next: micro-iterazione su stabilitAÿ e naming coerente.
 
+## 2026-01-09
+- Documentare decisioni di design prese in corsa.
+- Risultato: ridotti edge case e comportamenti inattesi.
+- Next: definire monitor per regressioni note.
+
