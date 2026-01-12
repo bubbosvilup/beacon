@@ -26,3 +26,8 @@ High-level technical log (sanitized).
 - Risultato: ridotti edge case e comportamenti inattesi.
 - Next: definire monitor per regressioni note.
 
+## 2026-01-12
+- Snellire script di setup e provisioning.
+- Risultato: tempi di build/test ridotti e piu stabili.
+- Next: isolare feature flag e definire default sicuro.
+
