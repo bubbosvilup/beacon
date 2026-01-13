@@ -31,3 +31,8 @@ High-level technical log (sanitized).
 - Risultato: tempi di build/test ridotti e piu stabili.
 - Next: isolare feature flag e definire default sicuro.
 
+## 2026-01-13
+- Introdurre metriche minime per capire impatto dei cambiamenti.
+- Risultato: maggiore confidenza nei rollback per sicurezza.
+- Next: semplificare flusso di build/deploy eliminando step superflui.
+
