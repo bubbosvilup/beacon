@@ -36,3 +36,8 @@ High-level technical log (sanitized).
 - Risultato: maggiore confidenza nei rollback per sicurezza.
 - Next: semplificare flusso di build/deploy eliminando step superflui.
 
+## 2026-01-14
+- Refactor mirato su struttura e responsabilitAÿ dei moduli.
+- Risultato: log piu leggibili e azionabili in produzione.
+- Next: rivedere naming e convenzioni con il team.
+
