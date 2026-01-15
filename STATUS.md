@@ -41,3 +41,8 @@ High-level technical log (sanitized).
 - Risultato: log piu leggibili e azionabili in produzione.
 - Next: rivedere naming e convenzioni con il team.
 
+## 2026-01-15
+- Rendere piu chiari i messaggi di log per oncall.
+- Risultato: metriche minime disponibili per capire lo stato.
+- Next: isolare feature flag e definire default sicuro.
+
