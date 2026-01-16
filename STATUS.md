@@ -46,3 +46,8 @@ High-level technical log (sanitized).
 - Risultato: metriche minime disponibili per capire lo stato.
 - Next: isolare feature flag e definire default sicuro.
 
+## 2026-01-16
+- Portare a zero warning emersi nell'ultima build.
+- Risultato: minor rumore, piA1 segnale nelle verifiche.
+- Next: allineare checklist di rilascio con le ultime modifiche.
+
