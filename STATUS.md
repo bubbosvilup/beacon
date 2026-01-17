@@ -51,3 +51,8 @@ High-level technical log (sanitized).
 - Risultato: minor rumore, piA1 segnale nelle verifiche.
 - Next: allineare checklist di rilascio con le ultime modifiche.
 
+## 2026-01-17
+- Ridurre dimensione dei bundle/artefatti generati.
+- Risultato: componenti legacy incapsulati e meno invasivi.
+- Next: completare migrazione verso il nuovo schema dati.
+
