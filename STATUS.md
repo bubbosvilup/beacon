@@ -56,3 +56,8 @@ High-level technical log (sanitized).
 - Risultato: componenti legacy incapsulati e meno invasivi.
 - Next: completare migrazione verso il nuovo schema dati.
 
+## 2026-01-19
+- Creare esempi d'uso essenziali per le API esposte.
+- Risultato: ridotto rischio di regressioni su input malformati.
+- Next: mettere in guardia team su cambiamenti breaking.
+
