@@ -61,3 +61,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto rischio di regressioni su input malformati.
 - Next: mettere in guardia team su cambiamenti breaking.
 
+## 2026-01-21
+- Snellire script di setup e provisioning.
+- Risultato: minori fallimenti transitori grazie a retry controllati.
+- Next: aggiornare doc e verificare ripetibilitAÿ da zero.
+
