@@ -66,3 +66,8 @@ High-level technical log (sanitized).
 - Risultato: minori fallimenti transitori grazie a retry controllati.
 - Next: aggiornare doc e verificare ripetibilitAÿ da zero.
 
+## 2026-01-22
+- Eliminare accoppiamento a path o configurazioni locali.
+- Risultato: riduzione duplicazioni e minor rischio di regressioni.
+- Next: pulire dati legacy e chiudere migrazioni pendenti.
+
