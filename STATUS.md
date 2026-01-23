@@ -71,3 +71,8 @@ High-level technical log (sanitized).
 - Risultato: riduzione duplicazioni e minor rischio di regressioni.
 - Next: pulire dati legacy e chiudere migrazioni pendenti.
 
+## 2026-01-23
+- Verificare resilienza a input malformati.
+- Risultato: riduzione duplicazioni e minor rischio di regressioni.
+- Next: completare migrazione verso il nuovo schema dati.
+
