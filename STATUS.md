@@ -76,3 +76,8 @@ High-level technical log (sanitized).
 - Risultato: riduzione duplicazioni e minor rischio di regressioni.
 - Next: completare migrazione verso il nuovo schema dati.
 
+## 2026-01-24
+- Consolidamento toolchain e pulizia configurazioni.
+- Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
+- Next: preparare doc breve per on-call/hand-off.
+
