@@ -81,3 +81,8 @@ High-level technical log (sanitized).
 - Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
 - Next: preparare doc breve per on-call/hand-off.
 
+## 2026-01-27
+- Ridurre latenza del percorso critico con micro-ottimizzazioni.
+- Risultato: metriche minime disponibili per capire lo stato.
+- Next: segmentare carico per evitare hotspot.
+
