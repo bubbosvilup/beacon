@@ -86,3 +86,8 @@ High-level technical log (sanitized).
 - Risultato: metriche minime disponibili per capire lo stato.
 - Next: segmentare carico per evitare hotspot.
 
+## 2026-01-28
+- Migliorare tracciabilita con ID e log correlati.
+- Risultato: test resi piu affidabili e meno flakey.
+- Next: chiudere il giro con un pass di revisione generale.
+
