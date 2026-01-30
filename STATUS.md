@@ -91,3 +91,8 @@ High-level technical log (sanitized).
 - Risultato: test resi piu affidabili e meno flakey.
 - Next: chiudere il giro con un pass di revisione generale.
 
+## 2026-01-30
+- Prototipazione controllata: validazione di un approccio.
+- Risultato: documentazione operativa pronta per l'on-call.
+- Next: consolidare helper comuni e pubblicarli come pacchetto interno.
+
