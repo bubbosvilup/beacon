@@ -96,3 +96,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione operativa pronta per l'on-call.
 - Next: consolidare helper comuni e pubblicarli come pacchetto interno.
 
+## 2026-01-31
+- Rendere ripetibili i check manuali con script.
+- Risultato: log piu leggibili e azionabili in produzione.
+- Next: ridurre ulteriormente duplicazioni e semplificare flusso.
+
