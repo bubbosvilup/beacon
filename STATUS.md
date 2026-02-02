@@ -101,3 +101,8 @@ High-level technical log (sanitized).
 - Risultato: log piu leggibili e azionabili in produzione.
 - Next: ridurre ulteriormente duplicazioni e semplificare flusso.
 
+## 2026-02-02
+- Chiarire responsabilita tra servizi e confini API.
+- Risultato: tempi di build/test ridotti e piu stabili.
+- Next: consolidare con test minimi e pulizia finale.
+
