@@ -106,3 +106,8 @@ High-level technical log (sanitized).
 - Risultato: tempi di build/test ridotti e piu stabili.
 - Next: consolidare con test minimi e pulizia finale.
 
+## 2026-02-03
+- Ottimizzazione: riduzione complessitAÿ e ridondanze.
+- Risultato: abilitata sperimentazione sicura via feature flag.
+- Next: isolare meglio i confini e migliorare interfacce.
+
