@@ -111,3 +111,8 @@ High-level technical log (sanitized).
 - Risultato: abilitata sperimentazione sicura via feature flag.
 - Next: isolare meglio i confini e migliorare interfacce.
 
+## 2026-02-06
+- Ridurre dimensione dei bundle/artefatti generati.
+- Risultato: team allineato con note e decisioni condivise.
+- Next: profilare dove serve e ottimizzare con criterio.
+
