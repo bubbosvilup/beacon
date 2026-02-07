@@ -116,3 +116,8 @@ High-level technical log (sanitized).
 - Risultato: team allineato con note e decisioni condivise.
 - Next: profilare dove serve e ottimizzare con criterio.
 
+## 2026-02-07
+- Verificare memoria e risorse in scenari stressati.
+- Risultato: tempi di build/test ridotti e piu stabili.
+- Next: estendere copertura su 1-2 edge case prioritari.
+
