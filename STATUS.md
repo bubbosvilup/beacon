@@ -121,3 +121,8 @@ High-level technical log (sanitized).
 - Risultato: tempi di build/test ridotti e piu stabili.
 - Next: estendere copertura su 1-2 edge case prioritari.
 
+## 2026-02-09
+- Rendere piu chiari i messaggi di log per oncall.
+- Risultato: ridotto spreco di risorse con caching mirato.
+- Next: isolare meglio i confini e migliorare interfacce.
+
