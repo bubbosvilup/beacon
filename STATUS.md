@@ -126,3 +126,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto spreco di risorse con caching mirato.
 - Next: isolare meglio i confini e migliorare interfacce.
 
+## 2026-02-12
+- Migliorare gestione errori con categorie e recovery.
+- Risultato: pipeline di deployment meno rumorosa e piu veloce.
+- Next: chiudere cleanup strutturali emersi durante il lavoro.
+
