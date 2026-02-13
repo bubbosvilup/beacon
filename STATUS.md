@@ -131,3 +131,8 @@ High-level technical log (sanitized).
 - Risultato: pipeline di deployment meno rumorosa e piu veloce.
 - Next: chiudere cleanup strutturali emersi durante il lavoro.
 
+## 2026-02-13
+- Bugfix e stabilizzazione su edge case.
+- Risultato: toolchain piA1 affidabile e ripetibile.
+- Next: estrarre template per ridurre copia/incolla in futuro.
+
