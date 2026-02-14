@@ -136,3 +136,8 @@ High-level technical log (sanitized).
 - Risultato: toolchain piA1 affidabile e ripetibile.
 - Next: estrarre template per ridurre copia/incolla in futuro.
 
+## 2026-02-14
+- Documentare decisioni di design prese in corsa.
+- Risultato: nomenclatura uniforme facilita ricerca e correlazione.
+- Next: piccoli task mirati, niente espansione di scope.
+
