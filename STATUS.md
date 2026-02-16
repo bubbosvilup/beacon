@@ -141,3 +141,8 @@ High-level technical log (sanitized).
 - Risultato: nomenclatura uniforme facilita ricerca e correlazione.
 - Next: piccoli task mirati, niente espansione di scope.
 
+## 2026-02-16
+- Introdurre guardrail su accessi concorrenti.
+- Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
+- Next: aggiornare doc e verificare ripetibilitAÿ da zero.
+
