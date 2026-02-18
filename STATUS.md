@@ -146,3 +146,8 @@ High-level technical log (sanitized).
 - Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
 - Next: aggiornare doc e verificare ripetibilitAÿ da zero.
 
+## 2026-02-18
+- Portare a zero warning emersi nell'ultima build.
+- Risultato: ridotta superficie di sicurezza con permessi minimi.
+- Next: affrontare debiti lasciati in sospeso per priorita.
+
