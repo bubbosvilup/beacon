@@ -151,3 +151,8 @@ High-level technical log (sanitized).
 - Risultato: ridotta superficie di sicurezza con permessi minimi.
 - Next: affrontare debiti lasciati in sospeso per priorita.
 
+## 2026-02-19
+- Introdurre guardrail su accessi concorrenti.
+- Risultato: abilitata sperimentazione sicura via feature flag.
+- Next: estrarre template per ridurre copia/incolla in futuro.
+
