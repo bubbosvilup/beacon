@@ -156,3 +156,8 @@ High-level technical log (sanitized).
 - Risultato: abilitata sperimentazione sicura via feature flag.
 - Next: estrarre template per ridurre copia/incolla in futuro.
 
+## 2026-02-20
+- Ridurre latenza del percorso critico con micro-ottimizzazioni.
+- Risultato: ridotto attrito tra moduli e responsabilita piu nette.
+- Next: estrarre template per ridurre copia/incolla in futuro.
+
