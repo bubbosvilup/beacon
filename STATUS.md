@@ -161,3 +161,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto attrito tra moduli e responsabilita piu nette.
 - Next: estrarre template per ridurre copia/incolla in futuro.
 
+## 2026-02-21
+- Creare esempi d'uso essenziali per le API esposte.
+- Risultato: test resi piu affidabili e meno flakey.
+- Next: semplificare flusso di build/deploy eliminando step superflui.
+
