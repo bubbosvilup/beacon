@@ -166,3 +166,8 @@ High-level technical log (sanitized).
 - Risultato: test resi piu affidabili e meno flakey.
 - Next: semplificare flusso di build/deploy eliminando step superflui.
 
+## 2026-02-23
+- Refactor mirato su struttura e responsabilitAÿ dei moduli.
+- Risultato: team allineato con note e decisioni condivise.
+- Next: consolidare con test minimi e pulizia finale.
+
