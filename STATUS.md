@@ -171,3 +171,8 @@ High-level technical log (sanitized).
 - Risultato: team allineato con note e decisioni condivise.
 - Next: consolidare con test minimi e pulizia finale.
 
+## 2026-02-24
+- Uniformare stile dei test e fixare flaky storici.
+- Risultato: codice piA1 leggibile e prevedibile.
+- Next: fare dry-run in staging e valutare log/metriche.
+
