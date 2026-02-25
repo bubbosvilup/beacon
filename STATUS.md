@@ -176,3 +176,8 @@ High-level technical log (sanitized).
 - Risultato: codice piA1 leggibile e prevedibile.
 - Next: fare dry-run in staging e valutare log/metriche.
 
+## 2026-02-25
+- Bugfix e stabilizzazione su edge case.
+- Risultato: ridotti edge case e comportamenti inattesi.
+- Next: estendere copertura su 1-2 edge case prioritari.
+
