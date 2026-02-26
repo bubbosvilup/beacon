@@ -181,3 +181,8 @@ High-level technical log (sanitized).
 - Risultato: ridotti edge case e comportamenti inattesi.
 - Next: estendere copertura su 1-2 edge case prioritari.
 
+## 2026-02-26
+- Pulizia tecnica: rimozione dead code e naming coerente.
+- Risultato: codice piA1 leggibile e prevedibile.
+- Next: arricchire osservabilita per fase di roll-out.
+
