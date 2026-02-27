@@ -186,3 +186,8 @@ High-level technical log (sanitized).
 - Risultato: codice piA1 leggibile e prevedibile.
 - Next: arricchire osservabilita per fase di roll-out.
 
+## 2026-02-27
+- Consolidamento toolchain e pulizia configurazioni.
+- Risultato: ridotti edge case e comportamenti inattesi.
+- Next: pulire dati legacy e chiudere migrazioni pendenti.
+
