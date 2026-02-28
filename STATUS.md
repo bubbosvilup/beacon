@@ -191,3 +191,8 @@ High-level technical log (sanitized).
 - Risultato: ridotti edge case e comportamenti inattesi.
 - Next: pulire dati legacy e chiudere migrazioni pendenti.
 
+## 2026-02-28
+- Migliorare tracciabilita con ID e log correlati.
+- Risultato: abilitata sperimentazione sicura via feature flag.
+- Next: rivedere naming e convenzioni con il team.
+
