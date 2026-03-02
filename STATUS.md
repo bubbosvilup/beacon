@@ -196,3 +196,8 @@ High-level technical log (sanitized).
 - Risultato: abilitata sperimentazione sicura via feature flag.
 - Next: rivedere naming e convenzioni con il team.
 
+## 2026-03-02
+- Hardening: riduzione rischi e controlli difensivi.
+- Risultato: documentazione sufficiente per ripartire senza contesto.
+- Next: completare migrazione verso il nuovo schema dati.
+
