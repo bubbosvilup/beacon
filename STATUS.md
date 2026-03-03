@@ -201,3 +201,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione sufficiente per ripartire senza contesto.
 - Next: completare migrazione verso il nuovo schema dati.
 
+## 2026-03-03
+- Rendere ripetibili i check manuali con script.
+- Risultato: baseline piA1 stabile per iterazioni successive.
+- Next: micro-iterazione su stabilitAÿ e naming coerente.
+
