@@ -206,3 +206,8 @@ High-level technical log (sanitized).
 - Risultato: baseline piA1 stabile per iterazioni successive.
 - Next: micro-iterazione su stabilitAÿ e naming coerente.
 
+## 2026-03-04
+- Ridurre dimensione dei bundle/artefatti generati.
+- Risultato: documentazione operativa pronta per l'on-call.
+- Next: rimuovere fallback temporanei introdotti per sblocco.
+
