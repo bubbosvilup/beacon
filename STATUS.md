@@ -211,3 +211,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione operativa pronta per l'on-call.
 - Next: rimuovere fallback temporanei introdotti per sblocco.
 
+## 2026-03-05
+- Bugfix e stabilizzazione su edge case.
+- Risultato: struttura piA1 pulita, meno attrito nel proseguire.
+- Next: consolidare helper comuni e pubblicarli come pacchetto interno.
+
