@@ -216,3 +216,8 @@ High-level technical log (sanitized).
 - Risultato: struttura piA1 pulita, meno attrito nel proseguire.
 - Next: consolidare helper comuni e pubblicarli come pacchetto interno.
 
+## 2026-03-06
+- Pulizia tecnica: rimozione dead code e naming coerente.
+- Risultato: refactor guidato da invarianti espliciti.
+- Next: completare migrazione verso il nuovo schema dati.
+
