@@ -221,3 +221,8 @@ High-level technical log (sanitized).
 - Risultato: refactor guidato da invarianti espliciti.
 - Next: completare migrazione verso il nuovo schema dati.
 
+## 2026-03-07
+- Migliorare tracciabilita con ID e log correlati.
+- Risultato: tempi di build/test ridotti e piu stabili.
+- Next: profilare dove serve e ottimizzare con criterio.
+
