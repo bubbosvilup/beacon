@@ -226,3 +226,8 @@ High-level technical log (sanitized).
 - Risultato: tempi di build/test ridotti e piu stabili.
 - Next: profilare dove serve e ottimizzare con criterio.
 
+## 2026-03-09
+- Eliminare accoppiamento a path o configurazioni locali.
+- Risultato: minori fallimenti transitori grazie a retry controllati.
+- Next: piccoli task mirati, niente espansione di scope.
+
