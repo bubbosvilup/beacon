@@ -231,3 +231,8 @@ High-level technical log (sanitized).
 - Risultato: minori fallimenti transitori grazie a retry controllati.
 - Next: piccoli task mirati, niente espansione di scope.
 
+## 2026-03-10
+- Verificare memoria e risorse in scenari stressati.
+- Risultato: pipeline di deployment meno rumorosa e piu veloce.
+- Next: rifinire i punti critici e rimuovere TODO residui.
+
