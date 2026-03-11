@@ -236,3 +236,8 @@ High-level technical log (sanitized).
 - Risultato: pipeline di deployment meno rumorosa e piu veloce.
 - Next: rifinire i punti critici e rimuovere TODO residui.
 
+## 2026-03-11
+- Migliorare tracciabilita con ID e log correlati.
+- Risultato: riduzione duplicazioni e minor rischio di regressioni.
+- Next: aggiungere test di contratto tra servizi.
+
