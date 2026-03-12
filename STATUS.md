@@ -241,3 +241,8 @@ High-level technical log (sanitized).
 - Risultato: riduzione duplicazioni e minor rischio di regressioni.
 - Next: aggiungere test di contratto tra servizi.
 
+## 2026-03-12
+- Testing leggero: sanity checks e regressioni rapide.
+- Risultato: test resi piu affidabili e meno flakey.
+- Next: segmentare carico per evitare hotspot.
+
