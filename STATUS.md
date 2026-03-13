@@ -246,3 +246,8 @@ High-level technical log (sanitized).
 - Risultato: test resi piu affidabili e meno flakey.
 - Next: segmentare carico per evitare hotspot.
 
+## 2026-03-13
+- Introdurre metriche minime per capire impatto dei cambiamenti.
+- Risultato: maggiore copertura su scenari critici.
+- Next: preparare doc breve per on-call/hand-off.
+
