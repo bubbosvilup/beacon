@@ -251,3 +251,8 @@ High-level technical log (sanitized).
 - Risultato: maggiore copertura su scenari critici.
 - Next: preparare doc breve per on-call/hand-off.
 
+## 2026-03-14
+- Chiarire responsabilita tra servizi e confini API.
+- Risultato: minori fallimenti transitori grazie a retry controllati.
+- Next: aggiungere test di contratto tra servizi.
+
