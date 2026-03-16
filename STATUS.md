@@ -256,3 +256,8 @@ High-level technical log (sanitized).
 - Risultato: minori fallimenti transitori grazie a retry controllati.
 - Next: aggiungere test di contratto tra servizi.
 
+## 2026-03-16
+- Migliorare tracciabilita con ID e log correlati.
+- Risultato: minori fallimenti transitori grazie a retry controllati.
+- Next: completare migrazione verso il nuovo schema dati.
+
