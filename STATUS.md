@@ -261,3 +261,8 @@ High-level technical log (sanitized).
 - Risultato: minori fallimenti transitori grazie a retry controllati.
 - Next: completare migrazione verso il nuovo schema dati.
 
+## 2026-03-17
+- Ottimizzazione: riduzione complessitAÿ e ridondanze.
+- Risultato: componenti legacy incapsulati e meno invasivi.
+- Next: estrarre template per ridurre copia/incolla in futuro.
+
