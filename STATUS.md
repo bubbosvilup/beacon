@@ -266,3 +266,8 @@ High-level technical log (sanitized).
 - Risultato: componenti legacy incapsulati e meno invasivi.
 - Next: estrarre template per ridurre copia/incolla in futuro.
 
+## 2026-03-18
+- Revisione API interne e semplificazione interfacce.
+- Risultato: ridotto rischio di regressioni su input malformati.
+- Next: aggiornare doc e verificare ripetibilitAÿ da zero.
+
