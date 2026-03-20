@@ -276,3 +276,8 @@ High-level technical log (sanitized).
 - Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
 - Next: definire monitor per regressioni note.
 
+## 2026-03-20
+- Chiudere debiti veloci che bloccano refactor piu grandi.
+- Risultato: documentazione sufficiente per ripartire senza contesto.
+- Next: allineare checklist di rilascio con le ultime modifiche.
+
