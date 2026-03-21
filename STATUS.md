@@ -281,3 +281,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione sufficiente per ripartire senza contesto.
 - Next: allineare checklist di rilascio con le ultime modifiche.
 
+## 2026-03-21
+- Migliorare gestione errori con categorie e recovery.
+- Risultato: ridotto attrito tra moduli e responsabilita piu nette.
+- Next: arricchire osservabilita per fase di roll-out.
+
