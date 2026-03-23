@@ -286,3 +286,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto attrito tra moduli e responsabilita piu nette.
 - Next: arricchire osservabilita per fase di roll-out.
 
+## 2026-03-23
+- Portare a zero warning emersi nell'ultima build.
+- Risultato: codice piA1 leggibile e prevedibile.
+- Next: consolidare con test minimi e pulizia finale.
+
