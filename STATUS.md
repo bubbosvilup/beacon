@@ -291,3 +291,8 @@ High-level technical log (sanitized).
 - Risultato: codice piA1 leggibile e prevedibile.
 - Next: consolidare con test minimi e pulizia finale.
 
+## 2026-03-24
+- Rendere piu chiari i messaggi di log per oncall.
+- Risultato: nomenclatura uniforme facilita ricerca e correlazione.
+- Next: arricchire osservabilita per fase di roll-out.
+
