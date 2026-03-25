@@ -296,3 +296,8 @@ High-level technical log (sanitized).
 - Risultato: nomenclatura uniforme facilita ricerca e correlazione.
 - Next: arricchire osservabilita per fase di roll-out.
 
+## 2026-03-25
+- Bugfix e stabilizzazione su edge case.
+- Risultato: maggiore confidenza nei rollback per sicurezza.
+- Next: aggiornare doc e verificare ripetibilitAÿ da zero.
+
