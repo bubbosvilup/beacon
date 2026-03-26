@@ -301,3 +301,8 @@ High-level technical log (sanitized).
 - Risultato: maggiore confidenza nei rollback per sicurezza.
 - Next: aggiornare doc e verificare ripetibilitAÿ da zero.
 
+## 2026-03-26
+- Refactor mirato su struttura e responsabilitAÿ dei moduli.
+- Risultato: minor rumore, piA1 segnale nelle verifiche.
+- Next: consolidare helper comuni e pubblicarli come pacchetto interno.
+
