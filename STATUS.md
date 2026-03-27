@@ -306,3 +306,8 @@ High-level technical log (sanitized).
 - Risultato: minor rumore, piA1 segnale nelle verifiche.
 - Next: consolidare helper comuni e pubblicarli come pacchetto interno.
 
+## 2026-03-27
+- Rendere piu chiari i messaggi di log per oncall.
+- Risultato: documentazione operativa pronta per l'on-call.
+- Next: definire monitor per regressioni note.
+
