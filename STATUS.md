@@ -311,3 +311,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione operativa pronta per l'on-call.
 - Next: definire monitor per regressioni note.
 
+## 2026-03-28
+- Refactor mirato su struttura e responsabilitAÿ dei moduli.
+- Risultato: documentazione sufficiente per ripartire senza contesto.
+- Next: estrarre template per ridurre copia/incolla in futuro.
+
