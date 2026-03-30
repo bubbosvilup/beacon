@@ -316,3 +316,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione sufficiente per ripartire senza contesto.
 - Next: estrarre template per ridurre copia/incolla in futuro.
 
+## 2026-03-30
+- Verificare memoria e risorse in scenari stressati.
+- Risultato: pipeline di deployment meno rumorosa e piu veloce.
+- Next: fare dry-run in staging e valutare log/metriche.
+
