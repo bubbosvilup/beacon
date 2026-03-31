@@ -321,3 +321,8 @@ High-level technical log (sanitized).
 - Risultato: pipeline di deployment meno rumorosa e piu veloce.
 - Next: fare dry-run in staging e valutare log/metriche.
 
+## 2026-03-31
+- Ridurre dimensione dei bundle/artefatti generati.
+- Risultato: metriche minime disponibili per capire lo stato.
+- Next: estendere copertura su 1-2 edge case prioritari.
+
