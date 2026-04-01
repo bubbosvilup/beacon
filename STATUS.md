@@ -326,3 +326,8 @@ High-level technical log (sanitized).
 - Risultato: metriche minime disponibili per capire lo stato.
 - Next: estendere copertura su 1-2 edge case prioritari.
 
+## 2026-04-01
+- Sperimentare alternativa tecnica con proof of concept rapido.
+- Risultato: team allineato con note e decisioni condivise.
+- Next: affrontare debiti lasciati in sospeso per priorita.
+
