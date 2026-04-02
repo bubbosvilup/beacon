@@ -331,3 +331,8 @@ High-level technical log (sanitized).
 - Risultato: team allineato con note e decisioni condivise.
 - Next: affrontare debiti lasciati in sospeso per priorita.
 
+## 2026-04-02
+- Hardening: riduzione rischi e controlli difensivi.
+- Risultato: struttura piA1 pulita, meno attrito nel proseguire.
+- Next: preparare doc breve per on-call/hand-off.
+
