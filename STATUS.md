@@ -336,3 +336,8 @@ High-level technical log (sanitized).
 - Risultato: struttura piA1 pulita, meno attrito nel proseguire.
 - Next: preparare doc breve per on-call/hand-off.
 
+## 2026-04-03
+- Migliorare gestione errori con categorie e recovery.
+- Risultato: documentazione sufficiente per ripartire senza contesto.
+- Next: rimuovere fallback temporanei introdotti per sblocco.
+
