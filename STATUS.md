@@ -341,3 +341,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione sufficiente per ripartire senza contesto.
 - Next: rimuovere fallback temporanei introdotti per sblocco.
 
+## 2026-04-04
+- Introdurre metriche minime per capire impatto dei cambiamenti.
+- Risultato: refactor guidato da invarianti espliciti.
+- Next: estendere copertura su 1-2 edge case prioritari.
+
