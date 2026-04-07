@@ -346,3 +346,8 @@ High-level technical log (sanitized).
 - Risultato: refactor guidato da invarianti espliciti.
 - Next: estendere copertura su 1-2 edge case prioritari.
 
+## 2026-04-07
+- Ottimizzazione: riduzione complessitAÿ e ridondanze.
+- Risultato: abilitata sperimentazione sicura via feature flag.
+- Next: completare migrazione verso il nuovo schema dati.
+
