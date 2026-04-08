@@ -351,3 +351,8 @@ High-level technical log (sanitized).
 - Risultato: abilitata sperimentazione sicura via feature flag.
 - Next: completare migrazione verso il nuovo schema dati.
 
+## 2026-04-08
+- Verificare resilienza a input malformati.
+- Risultato: abilitata sperimentazione sicura via feature flag.
+- Next: definire monitor per regressioni note.
+
