@@ -356,3 +356,8 @@ High-level technical log (sanitized).
 - Risultato: abilitata sperimentazione sicura via feature flag.
 - Next: definire monitor per regressioni note.
 
+## 2026-04-09
+- Sperimentare alternativa tecnica con proof of concept rapido.
+- Risultato: ridotto spreco di risorse con caching mirato.
+- Next: verificare impatto prestazionale con dati reali.
+
