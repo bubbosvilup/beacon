@@ -361,3 +361,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto spreco di risorse con caching mirato.
 - Next: verificare impatto prestazionale con dati reali.
 
+## 2026-04-10
+- Refactor mirato su struttura e responsabilitAÿ dei moduli.
+- Risultato: ridotti edge case e comportamenti inattesi.
+- Next: allineare checklist di rilascio con le ultime modifiche.
+
