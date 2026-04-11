@@ -366,3 +366,8 @@ High-level technical log (sanitized).
 - Risultato: ridotti edge case e comportamenti inattesi.
 - Next: allineare checklist di rilascio con le ultime modifiche.
 
+## 2026-04-11
+- Creare esempi d'uso essenziali per le API esposte.
+- Risultato: meno configurazioni duplicate e default sensati.
+- Next: piccoli task mirati, niente espansione di scope.
+
