@@ -371,3 +371,8 @@ High-level technical log (sanitized).
 - Risultato: meno configurazioni duplicate e default sensati.
 - Next: piccoli task mirati, niente espansione di scope.
 
+## 2026-04-13
+- Rendere piu chiari i messaggi di log per oncall.
+- Risultato: toolchain piA1 affidabile e ripetibile.
+- Next: semplificare flusso di build/deploy eliminando step superflui.
+
