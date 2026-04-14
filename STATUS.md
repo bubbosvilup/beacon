@@ -376,3 +376,8 @@ High-level technical log (sanitized).
 - Risultato: toolchain piA1 affidabile e ripetibile.
 - Next: semplificare flusso di build/deploy eliminando step superflui.
 
+## 2026-04-14
+- Hardening: riduzione rischi e controlli difensivi.
+- Risultato: riduzione duplicazioni e minor rischio di regressioni.
+- Next: estendere copertura su 1-2 edge case prioritari.
+
