@@ -381,3 +381,8 @@ High-level technical log (sanitized).
 - Risultato: riduzione duplicazioni e minor rischio di regressioni.
 - Next: estendere copertura su 1-2 edge case prioritari.
 
+## 2026-04-15
+- Refactor mirato su struttura e responsabilitAÿ dei moduli.
+- Risultato: ridotti edge case e comportamenti inattesi.
+- Next: rifinire i punti critici e rimuovere TODO residui.
+
