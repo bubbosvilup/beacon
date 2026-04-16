@@ -386,3 +386,8 @@ High-level technical log (sanitized).
 - Risultato: ridotti edge case e comportamenti inattesi.
 - Next: rifinire i punti critici e rimuovere TODO residui.
 
+## 2026-04-16
+- Documentazione: chiarimenti su setup e flusso di lavoro.
+- Risultato: flusso di setup piu rapido e documentato.
+- Next: rifinire i punti critici e rimuovere TODO residui.
+
