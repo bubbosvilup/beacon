@@ -391,3 +391,8 @@ High-level technical log (sanitized).
 - Risultato: flusso di setup piu rapido e documentato.
 - Next: rifinire i punti critici e rimuovere TODO residui.
 
+## 2026-04-17
+- Ridurre dimensione dei bundle/artefatti generati.
+- Risultato: toolchain piA1 affidabile e ripetibile.
+- Next: rivedere naming e convenzioni con il team.
+
