@@ -396,3 +396,8 @@ High-level technical log (sanitized).
 - Risultato: toolchain piA1 affidabile e ripetibile.
 - Next: rivedere naming e convenzioni con il team.
 
+## 2026-04-18
+- Prototipazione controllata: validazione di un approccio.
+- Risultato: baseline piA1 stabile per iterazioni successive.
+- Next: validare usabilita con una sessione rapida con stakeholder.
+
