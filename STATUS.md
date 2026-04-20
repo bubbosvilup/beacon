@@ -401,3 +401,8 @@ High-level technical log (sanitized).
 - Risultato: baseline piA1 stabile per iterazioni successive.
 - Next: validare usabilita con una sessione rapida con stakeholder.
 
+## 2026-04-20
+- Snellire script di setup e provisioning.
+- Risultato: ridotto rischio di regressioni su input malformati.
+- Next: chiudere il giro con un pass di revisione generale.
+
