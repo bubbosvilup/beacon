@@ -406,3 +406,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto rischio di regressioni su input malformati.
 - Next: chiudere il giro con un pass di revisione generale.
 
+## 2026-04-21
+- Bugfix e stabilizzazione su edge case.
+- Risultato: ridotto attrito tra moduli e responsabilita piu nette.
+- Next: pulire dati legacy e chiudere migrazioni pendenti.
+
