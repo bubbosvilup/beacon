@@ -411,3 +411,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto attrito tra moduli e responsabilita piu nette.
 - Next: pulire dati legacy e chiudere migrazioni pendenti.
 
+## 2026-04-22
+- Uniformare stile dei test e fixare flaky storici.
+- Risultato: ridotta superficie di sicurezza con permessi minimi.
+- Next: isolare feature flag e definire default sicuro.
+
