@@ -416,3 +416,8 @@ High-level technical log (sanitized).
 - Risultato: ridotta superficie di sicurezza con permessi minimi.
 - Next: isolare feature flag e definire default sicuro.
 
+## 2026-04-23
+- Chiudere debiti veloci che bloccano refactor piu grandi.
+- Risultato: ridotta superficie di sicurezza con permessi minimi.
+- Next: arricchire osservabilita per fase di roll-out.
+
