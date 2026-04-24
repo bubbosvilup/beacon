@@ -421,3 +421,8 @@ High-level technical log (sanitized).
 - Risultato: ridotta superficie di sicurezza con permessi minimi.
 - Next: arricchire osservabilita per fase di roll-out.
 
+## 2026-04-24
+- Verificare memoria e risorse in scenari stressati.
+- Risultato: documentazione operativa pronta per l'on-call.
+- Next: consolidare helper comuni e pubblicarli come pacchetto interno.
+
