@@ -426,3 +426,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione operativa pronta per l'on-call.
 - Next: consolidare helper comuni e pubblicarli come pacchetto interno.
 
+## 2026-04-25
+- Portare a zero warning emersi nell'ultima build.
+- Risultato: maggiore confidenza nei rollback per sicurezza.
+- Next: verificare impatto prestazionale con dati reali.
+
