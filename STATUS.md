@@ -431,3 +431,8 @@ High-level technical log (sanitized).
 - Risultato: maggiore confidenza nei rollback per sicurezza.
 - Next: verificare impatto prestazionale con dati reali.
 
+## 2026-04-27
+- Introdurre guardrail su accessi concorrenti.
+- Risultato: toolchain piA1 affidabile e ripetibile.
+- Next: estrarre template per ridurre copia/incolla in futuro.
+
