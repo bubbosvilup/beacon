@@ -436,3 +436,8 @@ High-level technical log (sanitized).
 - Risultato: toolchain piA1 affidabile e ripetibile.
 - Next: estrarre template per ridurre copia/incolla in futuro.
 
+## 2026-04-28
+- Verificare memoria e risorse in scenari stressati.
+- Risultato: codice piA1 leggibile e prevedibile.
+- Next: preparare doc breve per on-call/hand-off.
+
