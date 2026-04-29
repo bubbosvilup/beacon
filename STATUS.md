@@ -441,3 +441,8 @@ High-level technical log (sanitized).
 - Risultato: codice piA1 leggibile e prevedibile.
 - Next: preparare doc breve per on-call/hand-off.
 
+## 2026-04-29
+- Rendere prevedibile la coda di job e la loro priorita.
+- Risultato: struttura piA1 pulita, meno attrito nel proseguire.
+- Next: consolidare con test minimi e pulizia finale.
+
