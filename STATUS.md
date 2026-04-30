@@ -446,3 +446,8 @@ High-level technical log (sanitized).
 - Risultato: struttura piA1 pulita, meno attrito nel proseguire.
 - Next: consolidare con test minimi e pulizia finale.
 
+## 2026-04-30
+- Testing leggero: sanity checks e regressioni rapide.
+- Risultato: ridotto attrito tra moduli e responsabilita piu nette.
+- Next: arricchire osservabilita per fase di roll-out.
+
