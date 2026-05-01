@@ -451,3 +451,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto attrito tra moduli e responsabilita piu nette.
 - Next: arricchire osservabilita per fase di roll-out.
 
+## 2026-05-01
+- Ottimizzazione: riduzione complessitAÿ e ridondanze.
+- Risultato: documentazione sufficiente per ripartire senza contesto.
+- Next: estendere copertura su 1-2 edge case prioritari.
+
