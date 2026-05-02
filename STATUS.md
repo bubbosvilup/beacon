@@ -456,3 +456,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione sufficiente per ripartire senza contesto.
 - Next: estendere copertura su 1-2 edge case prioritari.
 
+## 2026-05-02
+- Hardening: riduzione rischi e controlli difensivi.
+- Risultato: test resi piu affidabili e meno flakey.
+- Next: profilare dove serve e ottimizzare con criterio.
+
