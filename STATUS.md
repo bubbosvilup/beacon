@@ -461,3 +461,8 @@ High-level technical log (sanitized).
 - Risultato: test resi piu affidabili e meno flakey.
 - Next: profilare dove serve e ottimizzare con criterio.
 
+## 2026-05-04
+- Rendere prevedibile la coda di job e la loro priorita.
+- Risultato: ridotta superficie di sicurezza con permessi minimi.
+- Next: definire monitor per regressioni note.
+
