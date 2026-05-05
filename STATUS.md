@@ -466,3 +466,8 @@ High-level technical log (sanitized).
 - Risultato: ridotta superficie di sicurezza con permessi minimi.
 - Next: definire monitor per regressioni note.
 
+## 2026-05-05
+- Verificare resilienza a input malformati.
+- Risultato: minor rumore, piA1 segnale nelle verifiche.
+- Next: estendere copertura su 1-2 edge case prioritari.
+
