@@ -471,3 +471,8 @@ High-level technical log (sanitized).
 - Risultato: minor rumore, piA1 segnale nelle verifiche.
 - Next: estendere copertura su 1-2 edge case prioritari.
 
+## 2026-05-06
+- Migliorare tracciabilita con ID e log correlati.
+- Risultato: nomenclatura uniforme facilita ricerca e correlazione.
+- Next: completare migrazione verso il nuovo schema dati.
+
