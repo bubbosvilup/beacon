@@ -476,3 +476,8 @@ High-level technical log (sanitized).
 - Risultato: nomenclatura uniforme facilita ricerca e correlazione.
 - Next: completare migrazione verso il nuovo schema dati.
 
+## 2026-05-07
+- Pulizia tecnica: rimozione dead code e naming coerente.
+- Risultato: componenti legacy incapsulati e meno invasivi.
+- Next: preparare doc breve per on-call/hand-off.
+
