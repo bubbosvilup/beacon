@@ -481,3 +481,8 @@ High-level technical log (sanitized).
 - Risultato: componenti legacy incapsulati e meno invasivi.
 - Next: preparare doc breve per on-call/hand-off.
 
+## 2026-05-08
+- Sperimentare alternativa tecnica con proof of concept rapido.
+- Risultato: minori fallimenti transitori grazie a retry controllati.
+- Next: isolare meglio i confini e migliorare interfacce.
+
