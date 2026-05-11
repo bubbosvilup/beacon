@@ -486,3 +486,8 @@ High-level technical log (sanitized).
 - Risultato: minori fallimenti transitori grazie a retry controllati.
 - Next: isolare meglio i confini e migliorare interfacce.
 
+## 2026-05-11
+- Rendere piu chiari i messaggi di log per oncall.
+- Risultato: documentazione sufficiente per ripartire senza contesto.
+- Next: consolidare con test minimi e pulizia finale.
+
