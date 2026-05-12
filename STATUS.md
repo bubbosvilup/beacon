@@ -491,3 +491,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione sufficiente per ripartire senza contesto.
 - Next: consolidare con test minimi e pulizia finale.
 
+## 2026-05-12
+- Portare a zero warning emersi nell'ultima build.
+- Risultato: maggiore copertura su scenari critici.
+- Next: validare usabilita con una sessione rapida con stakeholder.
+
