@@ -496,3 +496,8 @@ High-level technical log (sanitized).
 - Risultato: maggiore copertura su scenari critici.
 - Next: validare usabilita con una sessione rapida con stakeholder.
 
+## 2026-05-13
+- Documentazione: chiarimenti su setup e flusso di lavoro.
+- Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
+- Next: aggiungere test di contratto tra servizi.
+
