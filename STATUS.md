@@ -501,3 +501,8 @@ High-level technical log (sanitized).
 - Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
 - Next: aggiungere test di contratto tra servizi.
 
+## 2026-05-14
+- Creare esempi d'uso essenziali per le API esposte.
+- Risultato: ridotti edge case e comportamenti inattesi.
+- Next: mettere in guardia team su cambiamenti breaking.
+
