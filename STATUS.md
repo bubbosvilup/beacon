@@ -506,3 +506,8 @@ High-level technical log (sanitized).
 - Risultato: ridotti edge case e comportamenti inattesi.
 - Next: mettere in guardia team su cambiamenti breaking.
 
+## 2026-05-15
+- Ridurre dimensione dei bundle/artefatti generati.
+- Risultato: refactor guidato da invarianti espliciti.
+- Next: aggiungere test di contratto tra servizi.
+
