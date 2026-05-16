@@ -511,3 +511,8 @@ High-level technical log (sanitized).
 - Risultato: refactor guidato da invarianti espliciti.
 - Next: aggiungere test di contratto tra servizi.
 
+## 2026-05-16
+- Documentare decisioni di design prese in corsa.
+- Risultato: log piu leggibili e azionabili in produzione.
+- Next: chiudere il giro con un pass di revisione generale.
+
