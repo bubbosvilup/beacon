@@ -516,3 +516,8 @@ High-level technical log (sanitized).
 - Risultato: log piu leggibili e azionabili in produzione.
 - Next: chiudere il giro con un pass di revisione generale.
 
+## 2026-05-18
+- Migliorare tracciabilita con ID e log correlati.
+- Risultato: flusso di setup piu rapido e documentato.
+- Next: profilare dove serve e ottimizzare con criterio.
+
