@@ -521,3 +521,8 @@ High-level technical log (sanitized).
 - Risultato: flusso di setup piu rapido e documentato.
 - Next: profilare dove serve e ottimizzare con criterio.
 
+## 2026-05-19
+- Revisione API interne e semplificazione interfacce.
+- Risultato: componenti legacy incapsulati e meno invasivi.
+- Next: piccoli task mirati, niente espansione di scope.
+
