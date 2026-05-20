@@ -526,3 +526,8 @@ High-level technical log (sanitized).
 - Risultato: componenti legacy incapsulati e meno invasivi.
 - Next: piccoli task mirati, niente espansione di scope.
 
+## 2026-05-20
+- Ridurre latenza del percorso critico con micro-ottimizzazioni.
+- Risultato: pipeline di deployment meno rumorosa e piu veloce.
+- Next: completare migrazione verso il nuovo schema dati.
+
