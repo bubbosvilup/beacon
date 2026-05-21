@@ -531,3 +531,8 @@ High-level technical log (sanitized).
 - Risultato: pipeline di deployment meno rumorosa e piu veloce.
 - Next: completare migrazione verso il nuovo schema dati.
 
+## 2026-05-21
+- Uniformare stile dei test e fixare flaky storici.
+- Risultato: maggiore confidenza nei rollback per sicurezza.
+- Next: estendere copertura su 1-2 edge case prioritari.
+
