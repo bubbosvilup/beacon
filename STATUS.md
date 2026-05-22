@@ -536,3 +536,8 @@ High-level technical log (sanitized).
 - Risultato: maggiore confidenza nei rollback per sicurezza.
 - Next: estendere copertura su 1-2 edge case prioritari.
 
+## 2026-05-22
+- Migliorare tracciabilita con ID e log correlati.
+- Risultato: baseline piA1 stabile per iterazioni successive.
+- Next: consolidare helper comuni e pubblicarli come pacchetto interno.
+
