@@ -541,3 +541,8 @@ High-level technical log (sanitized).
 - Risultato: baseline piA1 stabile per iterazioni successive.
 - Next: consolidare helper comuni e pubblicarli come pacchetto interno.
 
+## 2026-05-23
+- Eliminare accoppiamento a path o configurazioni locali.
+- Risultato: team allineato con note e decisioni condivise.
+- Next: rivedere naming e convenzioni con il team.
+
