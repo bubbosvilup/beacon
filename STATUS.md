@@ -546,3 +546,8 @@ High-level technical log (sanitized).
 - Risultato: team allineato con note e decisioni condivise.
 - Next: rivedere naming e convenzioni con il team.
 
+## 2026-05-25
+- Documentare decisioni di design prese in corsa.
+- Risultato: tempi di build/test ridotti e piu stabili.
+- Next: chiudere cleanup strutturali emersi durante il lavoro.
+
