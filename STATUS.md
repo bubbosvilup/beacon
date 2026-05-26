@@ -551,3 +551,8 @@ High-level technical log (sanitized).
 - Risultato: tempi di build/test ridotti e piu stabili.
 - Next: chiudere cleanup strutturali emersi durante il lavoro.
 
+## 2026-05-26
+- Testing leggero: sanity checks e regressioni rapide.
+- Risultato: minori fallimenti transitori grazie a retry controllati.
+- Next: fare dry-run in staging e valutare log/metriche.
+
