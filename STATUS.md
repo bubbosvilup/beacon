@@ -556,3 +556,8 @@ High-level technical log (sanitized).
 - Risultato: minori fallimenti transitori grazie a retry controllati.
 - Next: fare dry-run in staging e valutare log/metriche.
 
+## 2026-05-27
+- Consolidamento toolchain e pulizia configurazioni.
+- Risultato: flusso di setup piu rapido e documentato.
+- Next: aggiornare doc e verificare ripetibilitAÿ da zero.
+
