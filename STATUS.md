@@ -561,3 +561,8 @@ High-level technical log (sanitized).
 - Risultato: flusso di setup piu rapido e documentato.
 - Next: aggiornare doc e verificare ripetibilitAÿ da zero.
 
+## 2026-05-28
+- Migliorare gestione errori con categorie e recovery.
+- Risultato: minori fallimenti transitori grazie a retry controllati.
+- Next: affrontare debiti lasciati in sospeso per priorita.
+
