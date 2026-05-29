@@ -566,3 +566,8 @@ High-level technical log (sanitized).
 - Risultato: minori fallimenti transitori grazie a retry controllati.
 - Next: affrontare debiti lasciati in sospeso per priorita.
 
+## 2026-05-29
+- Eliminare accoppiamento a path o configurazioni locali.
+- Risultato: metriche minime disponibili per capire lo stato.
+- Next: rimuovere fallback temporanei introdotti per sblocco.
+
