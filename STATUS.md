@@ -571,3 +571,8 @@ High-level technical log (sanitized).
 - Risultato: metriche minime disponibili per capire lo stato.
 - Next: rimuovere fallback temporanei introdotti per sblocco.
 
+## 2026-05-30
+- Testing leggero: sanity checks e regressioni rapide.
+- Risultato: minor rumore, piA1 segnale nelle verifiche.
+- Next: semplificare flusso di build/deploy eliminando step superflui.
+
