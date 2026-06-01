@@ -576,3 +576,8 @@ High-level technical log (sanitized).
 - Risultato: minor rumore, piA1 segnale nelle verifiche.
 - Next: semplificare flusso di build/deploy eliminando step superflui.
 
+## 2026-06-01
+- Introdurre guardrail su accessi concorrenti.
+- Risultato: ridotto spreco di risorse con caching mirato.
+- Next: chiudere cleanup strutturali emersi durante il lavoro.
+
