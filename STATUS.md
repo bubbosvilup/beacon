@@ -581,3 +581,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto spreco di risorse con caching mirato.
 - Next: chiudere cleanup strutturali emersi durante il lavoro.
 
+## 2026-06-02
+- Rendere piu chiari i messaggi di log per oncall.
+- Risultato: nomenclatura uniforme facilita ricerca e correlazione.
+- Next: arricchire osservabilita per fase di roll-out.
+
