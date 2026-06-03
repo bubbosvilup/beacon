@@ -586,3 +586,8 @@ High-level technical log (sanitized).
 - Risultato: nomenclatura uniforme facilita ricerca e correlazione.
 - Next: arricchire osservabilita per fase di roll-out.
 
+## 2026-06-03
+- Uniformare stile dei test e fixare flaky storici.
+- Risultato: riduzione duplicazioni e minor rischio di regressioni.
+- Next: completare migrazione verso il nuovo schema dati.
+
