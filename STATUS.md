@@ -591,3 +591,8 @@ High-level technical log (sanitized).
 - Risultato: riduzione duplicazioni e minor rischio di regressioni.
 - Next: completare migrazione verso il nuovo schema dati.
 
+## 2026-06-04
+- Chiarire responsabilita tra servizi e confini API.
+- Risultato: metriche minime disponibili per capire lo stato.
+- Next: consolidare con test minimi e pulizia finale.
+
