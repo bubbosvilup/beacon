@@ -596,3 +596,8 @@ High-level technical log (sanitized).
 - Risultato: metriche minime disponibili per capire lo stato.
 - Next: consolidare con test minimi e pulizia finale.
 
+## 2026-06-05
+- Introdurre guardrail su accessi concorrenti.
+- Risultato: documentazione operativa pronta per l'on-call.
+- Next: estrarre template per ridurre copia/incolla in futuro.
+
