@@ -601,3 +601,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione operativa pronta per l'on-call.
 - Next: estrarre template per ridurre copia/incolla in futuro.
 
+## 2026-06-06
+- Ottimizzazione: riduzione complessitAÿ e ridondanze.
+- Risultato: test resi piu affidabili e meno flakey.
+- Next: mettere in guardia team su cambiamenti breaking.
+
