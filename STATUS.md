@@ -606,3 +606,8 @@ High-level technical log (sanitized).
 - Risultato: test resi piu affidabili e meno flakey.
 - Next: mettere in guardia team su cambiamenti breaking.
 
+## 2026-06-08
+- Portare a zero warning emersi nell'ultima build.
+- Risultato: codice piA1 leggibile e prevedibile.
+- Next: rimuovere fallback temporanei introdotti per sblocco.
+
