@@ -611,3 +611,8 @@ High-level technical log (sanitized).
 - Risultato: codice piA1 leggibile e prevedibile.
 - Next: rimuovere fallback temporanei introdotti per sblocco.
 
+## 2026-06-09
+- Migliorare tracciabilita con ID e log correlati.
+- Risultato: flusso di setup piu rapido e documentato.
+- Next: micro-iterazione su stabilitAÿ e naming coerente.
+
