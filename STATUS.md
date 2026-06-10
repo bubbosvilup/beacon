@@ -616,3 +616,8 @@ High-level technical log (sanitized).
 - Risultato: flusso di setup piu rapido e documentato.
 - Next: micro-iterazione su stabilitAÿ e naming coerente.
 
+## 2026-06-10
+- Snellire script di setup e provisioning.
+- Risultato: codice piA1 leggibile e prevedibile.
+- Next: micro-iterazione su stabilitAÿ e naming coerente.
+
