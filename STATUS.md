@@ -621,3 +621,8 @@ High-level technical log (sanitized).
 - Risultato: codice piA1 leggibile e prevedibile.
 - Next: micro-iterazione su stabilitAÿ e naming coerente.
 
+## 2026-06-11
+- Ridurre dimensione dei bundle/artefatti generati.
+- Risultato: codice piA1 leggibile e prevedibile.
+- Next: pulire dati legacy e chiudere migrazioni pendenti.
+
