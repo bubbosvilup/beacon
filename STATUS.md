@@ -626,3 +626,8 @@ High-level technical log (sanitized).
 - Risultato: codice piA1 leggibile e prevedibile.
 - Next: pulire dati legacy e chiudere migrazioni pendenti.
 
+## 2026-06-12
+- Creare esempi d'uso essenziali per le API esposte.
+- Risultato: log piu leggibili e azionabili in produzione.
+- Next: profilare dove serve e ottimizzare con criterio.
+
