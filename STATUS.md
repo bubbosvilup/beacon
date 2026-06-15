@@ -636,3 +636,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione sufficiente per ripartire senza contesto.
 - Next: aggiornare doc e verificare ripetibilitAÿ da zero.
 
+## 2026-06-15
+- Migliorare tracciabilita con ID e log correlati.
+- Risultato: meno configurazioni duplicate e default sensati.
+- Next: semplificare flusso di build/deploy eliminando step superflui.
+
