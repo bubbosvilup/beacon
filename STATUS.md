@@ -641,3 +641,8 @@ High-level technical log (sanitized).
 - Risultato: meno configurazioni duplicate e default sensati.
 - Next: semplificare flusso di build/deploy eliminando step superflui.
 
+## 2026-06-16
+- Refactor mirato su struttura e responsabilitAÿ dei moduli.
+- Risultato: minor rumore, piA1 segnale nelle verifiche.
+- Next: verificare impatto prestazionale con dati reali.
+
