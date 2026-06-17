@@ -646,3 +646,8 @@ High-level technical log (sanitized).
 - Risultato: minor rumore, piA1 segnale nelle verifiche.
 - Next: verificare impatto prestazionale con dati reali.
 
+## 2026-06-17
+- Chiudere debiti veloci che bloccano refactor piu grandi.
+- Risultato: minor rumore, piA1 segnale nelle verifiche.
+- Next: segmentare carico per evitare hotspot.
+
