@@ -651,3 +651,8 @@ High-level technical log (sanitized).
 - Risultato: minor rumore, piA1 segnale nelle verifiche.
 - Next: segmentare carico per evitare hotspot.
 
+## 2026-06-18
+- Uniformare stile dei test e fixare flaky storici.
+- Risultato: abilitata sperimentazione sicura via feature flag.
+- Next: consolidare helper comuni e pubblicarli come pacchetto interno.
+
