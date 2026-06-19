@@ -656,3 +656,8 @@ High-level technical log (sanitized).
 - Risultato: abilitata sperimentazione sicura via feature flag.
 - Next: consolidare helper comuni e pubblicarli come pacchetto interno.
 
+## 2026-06-19
+- Rendere prevedibile la coda di job e la loro priorita.
+- Risultato: pipeline di deployment meno rumorosa e piu veloce.
+- Next: estrarre template per ridurre copia/incolla in futuro.
+
