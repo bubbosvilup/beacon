@@ -661,3 +661,8 @@ High-level technical log (sanitized).
 - Risultato: pipeline di deployment meno rumorosa e piu veloce.
 - Next: estrarre template per ridurre copia/incolla in futuro.
 
+## 2026-06-20
+- Revisione API interne e semplificazione interfacce.
+- Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
+- Next: completare migrazione verso il nuovo schema dati.
+
