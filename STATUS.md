@@ -666,3 +666,8 @@ High-level technical log (sanitized).
 - Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
 - Next: completare migrazione verso il nuovo schema dati.
 
+## 2026-06-22
+- Portare a zero warning emersi nell'ultima build.
+- Risultato: ridotto attrito tra moduli e responsabilita piu nette.
+- Next: aggiungere test di contratto tra servizi.
+
