@@ -671,3 +671,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto attrito tra moduli e responsabilita piu nette.
 - Next: aggiungere test di contratto tra servizi.
 
+## 2026-06-23
+- Eliminare accoppiamento a path o configurazioni locali.
+- Risultato: meno configurazioni duplicate e default sensati.
+- Next: validare usabilita con una sessione rapida con stakeholder.
+
