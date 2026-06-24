@@ -676,3 +676,8 @@ High-level technical log (sanitized).
 - Risultato: meno configurazioni duplicate e default sensati.
 - Next: validare usabilita con una sessione rapida con stakeholder.
 
+## 2026-06-24
+- Rendere ripetibili i check manuali con script.
+- Risultato: tempi di build/test ridotti e piu stabili.
+- Next: rifinire i punti critici e rimuovere TODO residui.
+
