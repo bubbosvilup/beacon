@@ -681,3 +681,8 @@ High-level technical log (sanitized).
 - Risultato: tempi di build/test ridotti e piu stabili.
 - Next: rifinire i punti critici e rimuovere TODO residui.
 
+## 2026-06-25
+- Hardening: riduzione rischi e controlli difensivi.
+- Risultato: minori fallimenti transitori grazie a retry controllati.
+- Next: consolidare helper comuni e pubblicarli come pacchetto interno.
+
