@@ -686,3 +686,8 @@ High-level technical log (sanitized).
 - Risultato: minori fallimenti transitori grazie a retry controllati.
 - Next: consolidare helper comuni e pubblicarli come pacchetto interno.
 
+## 2026-06-26
+- Rendere piu chiari i messaggi di log per oncall.
+- Risultato: nomenclatura uniforme facilita ricerca e correlazione.
+- Next: consolidare con test minimi e pulizia finale.
+
