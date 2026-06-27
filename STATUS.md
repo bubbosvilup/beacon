@@ -691,3 +691,8 @@ High-level technical log (sanitized).
 - Risultato: nomenclatura uniforme facilita ricerca e correlazione.
 - Next: consolidare con test minimi e pulizia finale.
 
+## 2026-06-27
+- Refactor mirato su struttura e responsabilitAÿ dei moduli.
+- Risultato: riduzione duplicazioni e minor rischio di regressioni.
+- Next: pulire dati legacy e chiudere migrazioni pendenti.
+
