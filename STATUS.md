@@ -696,3 +696,8 @@ High-level technical log (sanitized).
 - Risultato: riduzione duplicazioni e minor rischio di regressioni.
 - Next: pulire dati legacy e chiudere migrazioni pendenti.
 
+## 2026-06-29
+- Migliorare gestione errori con categorie e recovery.
+- Risultato: nomenclatura uniforme facilita ricerca e correlazione.
+- Next: arricchire osservabilita per fase di roll-out.
+
