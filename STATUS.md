@@ -701,3 +701,8 @@ High-level technical log (sanitized).
 - Risultato: nomenclatura uniforme facilita ricerca e correlazione.
 - Next: arricchire osservabilita per fase di roll-out.
 
+## 2026-06-30
+- Rendere prevedibile la coda di job e la loro priorita.
+- Risultato: maggiore confidenza nei rollback per sicurezza.
+- Next: consolidare helper comuni e pubblicarli come pacchetto interno.
+
