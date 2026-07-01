@@ -706,3 +706,8 @@ High-level technical log (sanitized).
 - Risultato: maggiore confidenza nei rollback per sicurezza.
 - Next: consolidare helper comuni e pubblicarli come pacchetto interno.
 
+## 2026-07-01
+- Sperimentare alternativa tecnica con proof of concept rapido.
+- Risultato: abilitata sperimentazione sicura via feature flag.
+- Next: estendere copertura su 1-2 edge case prioritari.
+
