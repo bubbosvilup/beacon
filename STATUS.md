@@ -711,3 +711,8 @@ High-level technical log (sanitized).
 - Risultato: abilitata sperimentazione sicura via feature flag.
 - Next: estendere copertura su 1-2 edge case prioritari.
 
+## 2026-07-02
+- Documentazione: chiarimenti su setup e flusso di lavoro.
+- Risultato: test resi piu affidabili e meno flakey.
+- Next: fare dry-run in staging e valutare log/metriche.
+
