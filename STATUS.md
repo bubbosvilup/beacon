@@ -716,3 +716,8 @@ High-level technical log (sanitized).
 - Risultato: test resi piu affidabili e meno flakey.
 - Next: fare dry-run in staging e valutare log/metriche.
 
+## 2026-07-03
+- Migliorare gestione errori con categorie e recovery.
+- Risultato: abilitata sperimentazione sicura via feature flag.
+- Next: rimuovere fallback temporanei introdotti per sblocco.
+
