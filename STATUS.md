@@ -721,3 +721,8 @@ High-level technical log (sanitized).
 - Risultato: abilitata sperimentazione sicura via feature flag.
 - Next: rimuovere fallback temporanei introdotti per sblocco.
 
+## 2026-07-06
+- Verificare memoria e risorse in scenari stressati.
+- Risultato: meno configurazioni duplicate e default sensati.
+- Next: rimuovere fallback temporanei introdotti per sblocco.
+
