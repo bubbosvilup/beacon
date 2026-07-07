@@ -726,3 +726,8 @@ High-level technical log (sanitized).
 - Risultato: meno configurazioni duplicate e default sensati.
 - Next: rimuovere fallback temporanei introdotti per sblocco.
 
+## 2026-07-07
+- Introdurre metriche minime per capire impatto dei cambiamenti.
+- Risultato: toolchain piA1 affidabile e ripetibile.
+- Next: chiudere il giro con un pass di revisione generale.
+
