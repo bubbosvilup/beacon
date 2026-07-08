@@ -731,3 +731,8 @@ High-level technical log (sanitized).
 - Risultato: toolchain piA1 affidabile e ripetibile.
 - Next: chiudere il giro con un pass di revisione generale.
 
+## 2026-07-08
+- Documentare decisioni di design prese in corsa.
+- Risultato: nomenclatura uniforme facilita ricerca e correlazione.
+- Next: consolidare helper comuni e pubblicarli come pacchetto interno.
+
