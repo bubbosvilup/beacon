@@ -736,3 +736,8 @@ High-level technical log (sanitized).
 - Risultato: nomenclatura uniforme facilita ricerca e correlazione.
 - Next: consolidare helper comuni e pubblicarli come pacchetto interno.
 
+## 2026-07-09
+- Hardening: riduzione rischi e controlli difensivi.
+- Risultato: log piu leggibili e azionabili in produzione.
+- Next: allineare checklist di rilascio con le ultime modifiche.
+
