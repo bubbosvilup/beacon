@@ -741,3 +741,8 @@ High-level technical log (sanitized).
 - Risultato: log piu leggibili e azionabili in produzione.
 - Next: allineare checklist di rilascio con le ultime modifiche.
 
+## 2026-07-10
+- Ottimizzazione: riduzione complessitAÿ e ridondanze.
+- Risultato: deploy piu prevedibile con check automatici.
+- Next: ridurre ulteriormente duplicazioni e semplificare flusso.
+
