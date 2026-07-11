@@ -746,3 +746,8 @@ High-level technical log (sanitized).
 - Risultato: deploy piu prevedibile con check automatici.
 - Next: ridurre ulteriormente duplicazioni e semplificare flusso.
 
+## 2026-07-11
+- Pulizia tecnica: rimozione dead code e naming coerente.
+- Risultato: ridotto rischio di regressioni su input malformati.
+- Next: consolidare helper comuni e pubblicarli come pacchetto interno.
+
