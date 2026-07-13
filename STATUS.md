@@ -751,3 +751,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto rischio di regressioni su input malformati.
 - Next: consolidare helper comuni e pubblicarli come pacchetto interno.
 
+## 2026-07-13
+- Migliorare tracciabilita con ID e log correlati.
+- Risultato: refactor guidato da invarianti espliciti.
+- Next: piccoli task mirati, niente espansione di scope.
+
