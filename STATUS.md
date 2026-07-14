@@ -756,3 +756,8 @@ High-level technical log (sanitized).
 - Risultato: refactor guidato da invarianti espliciti.
 - Next: piccoli task mirati, niente espansione di scope.
 
+## 2026-07-14
+- Ridurre latenza del percorso critico con micro-ottimizzazioni.
+- Risultato: log piu leggibili e azionabili in produzione.
+- Next: allineare checklist di rilascio con le ultime modifiche.
+
