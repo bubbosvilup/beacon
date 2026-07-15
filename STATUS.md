@@ -761,3 +761,8 @@ High-level technical log (sanitized).
 - Risultato: log piu leggibili e azionabili in produzione.
 - Next: allineare checklist di rilascio con le ultime modifiche.
 
+## 2026-07-15
+- Uniformare stile dei test e fixare flaky storici.
+- Risultato: minori fallimenti transitori grazie a retry controllati.
+- Next: pulire dati legacy e chiudere migrazioni pendenti.
+
