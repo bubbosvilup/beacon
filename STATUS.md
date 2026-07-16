@@ -766,3 +766,8 @@ High-level technical log (sanitized).
 - Risultato: minori fallimenti transitori grazie a retry controllati.
 - Next: pulire dati legacy e chiudere migrazioni pendenti.
 
+## 2026-07-16
+- Chiarire responsabilita tra servizi e confini API.
+- Risultato: deploy piu prevedibile con check automatici.
+- Next: segmentare carico per evitare hotspot.
+
