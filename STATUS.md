@@ -771,3 +771,8 @@ High-level technical log (sanitized).
 - Risultato: deploy piu prevedibile con check automatici.
 - Next: segmentare carico per evitare hotspot.
 
+## 2026-07-17
+- Verificare memoria e risorse in scenari stressati.
+- Risultato: minori fallimenti transitori grazie a retry controllati.
+- Next: aggiornare doc e verificare ripetibilitAÿ da zero.
+
