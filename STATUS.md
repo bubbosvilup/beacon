@@ -776,3 +776,8 @@ High-level technical log (sanitized).
 - Risultato: minori fallimenti transitori grazie a retry controllati.
 - Next: aggiornare doc e verificare ripetibilitAÿ da zero.
 
+## 2026-07-18
+- Prototipazione controllata: validazione di un approccio.
+- Risultato: pipeline di deployment meno rumorosa e piu veloce.
+- Next: aggiungere test di contratto tra servizi.
+
