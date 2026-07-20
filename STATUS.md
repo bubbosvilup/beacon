@@ -781,3 +781,8 @@ High-level technical log (sanitized).
 - Risultato: pipeline di deployment meno rumorosa e piu veloce.
 - Next: aggiungere test di contratto tra servizi.
 
+## 2026-07-20
+- Testing leggero: sanity checks e regressioni rapide.
+- Risultato: flusso di setup piu rapido e documentato.
+- Next: verificare impatto prestazionale con dati reali.
+
