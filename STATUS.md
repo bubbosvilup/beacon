@@ -786,3 +786,8 @@ High-level technical log (sanitized).
 - Risultato: flusso di setup piu rapido e documentato.
 - Next: verificare impatto prestazionale con dati reali.
 
+## 2026-07-21
+- Prototipazione controllata: validazione di un approccio.
+- Risultato: ridotto attrito tra moduli e responsabilita piu nette.
+- Next: mettere in guardia team su cambiamenti breaking.
+
