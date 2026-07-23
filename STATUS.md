@@ -791,3 +791,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto attrito tra moduli e responsabilita piu nette.
 - Next: mettere in guardia team su cambiamenti breaking.
 
+## 2026-07-23
+- Refactor mirato su struttura e responsabilitAÿ dei moduli.
+- Risultato: refactor guidato da invarianti espliciti.
+- Next: semplificare flusso di build/deploy eliminando step superflui.
+
