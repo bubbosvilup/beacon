@@ -796,3 +796,8 @@ High-level technical log (sanitized).
 - Risultato: refactor guidato da invarianti espliciti.
 - Next: semplificare flusso di build/deploy eliminando step superflui.
 
+## 2026-07-24
+- Consolidamento toolchain e pulizia configurazioni.
+- Risultato: ridotta superficie di sicurezza con permessi minimi.
+- Next: definire monitor per regressioni note.
+
