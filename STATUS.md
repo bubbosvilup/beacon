@@ -801,3 +801,8 @@ High-level technical log (sanitized).
 - Risultato: ridotta superficie di sicurezza con permessi minimi.
 - Next: definire monitor per regressioni note.
 
+## 2026-07-25
+- Revisione API interne e semplificazione interfacce.
+- Risultato: componenti legacy incapsulati e meno invasivi.
+- Next: validare usabilita con una sessione rapida con stakeholder.
+
