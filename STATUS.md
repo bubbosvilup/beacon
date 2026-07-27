@@ -806,3 +806,8 @@ High-level technical log (sanitized).
 - Risultato: componenti legacy incapsulati e meno invasivi.
 - Next: validare usabilita con una sessione rapida con stakeholder.
 
+## 2026-07-27
+- Eliminare accoppiamento a path o configurazioni locali.
+- Risultato: ridotta superficie di sicurezza con permessi minimi.
+- Next: definire monitor per regressioni note.
+
