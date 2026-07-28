@@ -811,3 +811,8 @@ High-level technical log (sanitized).
 - Risultato: ridotta superficie di sicurezza con permessi minimi.
 - Next: definire monitor per regressioni note.
 
+## 2026-07-28
+- Hardening: riduzione rischi e controlli difensivi.
+- Risultato: documentazione operativa pronta per l'on-call.
+- Next: verificare impatto prestazionale con dati reali.
+
