@@ -816,3 +816,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione operativa pronta per l'on-call.
 - Next: verificare impatto prestazionale con dati reali.
 
+## 2026-07-29
+- Rendere piu chiari i messaggi di log per oncall.
+- Risultato: riduzione duplicazioni e minor rischio di regressioni.
+- Next: semplificare flusso di build/deploy eliminando step superflui.
+
