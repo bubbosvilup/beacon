@@ -821,3 +821,8 @@ High-level technical log (sanitized).
 - Risultato: riduzione duplicazioni e minor rischio di regressioni.
 - Next: semplificare flusso di build/deploy eliminando step superflui.
 
+## 2026-07-30
+- Chiudere debiti veloci che bloccano refactor piu grandi.
+- Risultato: toolchain piA1 affidabile e ripetibile.
+- Next: isolare meglio i confini e migliorare interfacce.
+
