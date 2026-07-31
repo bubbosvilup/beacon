@@ -826,3 +826,8 @@ High-level technical log (sanitized).
 - Risultato: toolchain piA1 affidabile e ripetibile.
 - Next: isolare meglio i confini e migliorare interfacce.
 
+## 2026-07-31
+- Verificare resilienza a input malformati.
+- Risultato: documentazione sufficiente per ripartire senza contesto.
+- Next: verificare impatto prestazionale con dati reali.
+
