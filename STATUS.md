@@ -831,3 +831,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione sufficiente per ripartire senza contesto.
 - Next: verificare impatto prestazionale con dati reali.
 
+## 2026-08-01
+- Eliminare accoppiamento a path o configurazioni locali.
+- Risultato: maggiore confidenza nei rollback per sicurezza.
+- Next: rifinire i punti critici e rimuovere TODO residui.
+
