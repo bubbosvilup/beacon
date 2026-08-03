@@ -836,3 +836,8 @@ High-level technical log (sanitized).
 - Risultato: maggiore confidenza nei rollback per sicurezza.
 - Next: rifinire i punti critici e rimuovere TODO residui.
 
+## 2026-08-03
+- Chiudere debiti veloci che bloccano refactor piu grandi.
+- Risultato: documentazione operativa pronta per l'on-call.
+- Next: arricchire osservabilita per fase di roll-out.
+
