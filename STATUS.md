@@ -841,3 +841,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione operativa pronta per l'on-call.
 - Next: arricchire osservabilita per fase di roll-out.
 
+## 2026-08-04
+- Consolidamento toolchain e pulizia configurazioni.
+- Risultato: minor rumore, piA1 segnale nelle verifiche.
+- Next: chiudere il giro con un pass di revisione generale.
+
