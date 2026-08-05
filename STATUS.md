@@ -846,3 +846,8 @@ High-level technical log (sanitized).
 - Risultato: minor rumore, piA1 segnale nelle verifiche.
 - Next: chiudere il giro con un pass di revisione generale.
 
+## 2026-08-05
+- Migliorare gestione errori con categorie e recovery.
+- Risultato: baseline piA1 stabile per iterazioni successive.
+- Next: ridurre ulteriormente duplicazioni e semplificare flusso.
+
