@@ -851,3 +851,8 @@ High-level technical log (sanitized).
 - Risultato: baseline piA1 stabile per iterazioni successive.
 - Next: ridurre ulteriormente duplicazioni e semplificare flusso.
 
+## 2026-08-06
+- Portare a zero warning emersi nell'ultima build.
+- Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
+- Next: isolare feature flag e definire default sicuro.
+
