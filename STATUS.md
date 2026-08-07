@@ -856,3 +856,8 @@ High-level technical log (sanitized).
 - Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
 - Next: isolare feature flag e definire default sicuro.
 
+## 2026-08-07
+- Migliorare tracciabilita con ID e log correlati.
+- Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
+- Next: allineare checklist di rilascio con le ultime modifiche.
+
