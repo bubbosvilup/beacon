@@ -861,3 +861,8 @@ High-level technical log (sanitized).
 - Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
 - Next: allineare checklist di rilascio con le ultime modifiche.
 
+## 2026-08-08
+- Pulizia tecnica: rimozione dead code e naming coerente.
+- Risultato: ridotta superficie di sicurezza con permessi minimi.
+- Next: rimuovere fallback temporanei introdotti per sblocco.
+
