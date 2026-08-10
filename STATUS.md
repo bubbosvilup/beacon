@@ -866,3 +866,8 @@ High-level technical log (sanitized).
 - Risultato: ridotta superficie di sicurezza con permessi minimi.
 - Next: rimuovere fallback temporanei introdotti per sblocco.
 
+## 2026-08-10
+- Sperimentare alternativa tecnica con proof of concept rapido.
+- Risultato: metriche minime disponibili per capire lo stato.
+- Next: rifinire i punti critici e rimuovere TODO residui.
+
