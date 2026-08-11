@@ -871,3 +871,8 @@ High-level technical log (sanitized).
 - Risultato: metriche minime disponibili per capire lo stato.
 - Next: rifinire i punti critici e rimuovere TODO residui.
 
+## 2026-08-11
+- Uniformare stile dei test e fixare flaky storici.
+- Risultato: deploy piu prevedibile con check automatici.
+- Next: estendere copertura su 1-2 edge case prioritari.
+
