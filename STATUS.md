@@ -876,3 +876,8 @@ High-level technical log (sanitized).
 - Risultato: deploy piu prevedibile con check automatici.
 - Next: estendere copertura su 1-2 edge case prioritari.
 
+## 2026-08-12
+- Ridurre latenza del percorso critico con micro-ottimizzazioni.
+- Risultato: metriche minime disponibili per capire lo stato.
+- Next: allineare checklist di rilascio con le ultime modifiche.
+
