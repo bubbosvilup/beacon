@@ -881,3 +881,8 @@ High-level technical log (sanitized).
 - Risultato: metriche minime disponibili per capire lo stato.
 - Next: allineare checklist di rilascio con le ultime modifiche.
 
+## 2026-08-13
+- Migliorare tracciabilita con ID e log correlati.
+- Risultato: log piu leggibili e azionabili in produzione.
+- Next: chiudere cleanup strutturali emersi durante il lavoro.
+
