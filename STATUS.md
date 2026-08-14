@@ -886,3 +886,8 @@ High-level technical log (sanitized).
 - Risultato: log piu leggibili e azionabili in produzione.
 - Next: chiudere cleanup strutturali emersi durante il lavoro.
 
+## 2026-08-14
+- Bugfix e stabilizzazione su edge case.
+- Risultato: ridotti edge case e comportamenti inattesi.
+- Next: estrarre template per ridurre copia/incolla in futuro.
+
