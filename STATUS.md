@@ -891,3 +891,8 @@ High-level technical log (sanitized).
 - Risultato: ridotti edge case e comportamenti inattesi.
 - Next: estrarre template per ridurre copia/incolla in futuro.
 
+## 2026-08-15
+- Introdurre metriche minime per capire impatto dei cambiamenti.
+- Risultato: refactor guidato da invarianti espliciti.
+- Next: segmentare carico per evitare hotspot.
+
