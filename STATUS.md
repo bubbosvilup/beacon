@@ -896,3 +896,8 @@ High-level technical log (sanitized).
 - Risultato: refactor guidato da invarianti espliciti.
 - Next: segmentare carico per evitare hotspot.
 
+## 2026-08-17
+- Prototipazione controllata: validazione di un approccio.
+- Risultato: struttura piA1 pulita, meno attrito nel proseguire.
+- Next: rifinire i punti critici e rimuovere TODO residui.
+
