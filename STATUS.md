@@ -901,3 +901,8 @@ High-level technical log (sanitized).
 - Risultato: struttura piA1 pulita, meno attrito nel proseguire.
 - Next: rifinire i punti critici e rimuovere TODO residui.
 
+## 2026-08-18
+- Ridurre dimensione dei bundle/artefatti generati.
+- Risultato: team allineato con note e decisioni condivise.
+- Next: profilare dove serve e ottimizzare con criterio.
+
