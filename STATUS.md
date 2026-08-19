@@ -906,3 +906,8 @@ High-level technical log (sanitized).
 - Risultato: team allineato con note e decisioni condivise.
 - Next: profilare dove serve e ottimizzare con criterio.
 
+## 2026-08-19
+- Rendere prevedibile la coda di job e la loro priorita.
+- Risultato: abilitata sperimentazione sicura via feature flag.
+- Next: chiudere cleanup strutturali emersi durante il lavoro.
+
