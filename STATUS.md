@@ -911,3 +911,8 @@ High-level technical log (sanitized).
 - Risultato: abilitata sperimentazione sicura via feature flag.
 - Next: chiudere cleanup strutturali emersi durante il lavoro.
 
+## 2026-08-20
+- Rendere ripetibili i check manuali con script.
+- Risultato: componenti legacy incapsulati e meno invasivi.
+- Next: affrontare debiti lasciati in sospeso per priorita.
+
