@@ -916,3 +916,8 @@ High-level technical log (sanitized).
 - Risultato: componenti legacy incapsulati e meno invasivi.
 - Next: affrontare debiti lasciati in sospeso per priorita.
 
+## 2026-08-21
+- Revisione API interne e semplificazione interfacce.
+- Risultato: meno configurazioni duplicate e default sensati.
+- Next: definire monitor per regressioni note.
+
