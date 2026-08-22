@@ -921,3 +921,8 @@ High-level technical log (sanitized).
 - Risultato: meno configurazioni duplicate e default sensati.
 - Next: definire monitor per regressioni note.
 
+## 2026-08-22
+- Chiarire responsabilita tra servizi e confini API.
+- Risultato: log piu leggibili e azionabili in produzione.
+- Next: estrarre template per ridurre copia/incolla in futuro.
+
