@@ -926,3 +926,8 @@ High-level technical log (sanitized).
 - Risultato: log piu leggibili e azionabili in produzione.
 - Next: estrarre template per ridurre copia/incolla in futuro.
 
+## 2026-08-24
+- Pulizia tecnica: rimozione dead code e naming coerente.
+- Risultato: deploy piu prevedibile con check automatici.
+- Next: verificare impatto prestazionale con dati reali.
+
