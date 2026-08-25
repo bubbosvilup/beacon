@@ -931,3 +931,8 @@ High-level technical log (sanitized).
 - Risultato: deploy piu prevedibile con check automatici.
 - Next: verificare impatto prestazionale con dati reali.
 
+## 2026-08-25
+- Verificare memoria e risorse in scenari stressati.
+- Risultato: maggiore copertura su scenari critici.
+- Next: pulire dati legacy e chiudere migrazioni pendenti.
+
