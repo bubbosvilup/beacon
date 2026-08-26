@@ -936,3 +936,8 @@ High-level technical log (sanitized).
 - Risultato: maggiore copertura su scenari critici.
 - Next: pulire dati legacy e chiudere migrazioni pendenti.
 
+## 2026-08-26
+- Hardening: riduzione rischi e controlli difensivi.
+- Risultato: minori fallimenti transitori grazie a retry controllati.
+- Next: rifinire i punti critici e rimuovere TODO residui.
+
