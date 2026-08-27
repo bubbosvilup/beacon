@@ -941,3 +941,8 @@ High-level technical log (sanitized).
 - Risultato: minori fallimenti transitori grazie a retry controllati.
 - Next: rifinire i punti critici e rimuovere TODO residui.
 
+## 2026-08-27
+- Rendere prevedibile la coda di job e la loro priorita.
+- Risultato: ridotto rischio di regressioni su input malformati.
+- Next: consolidare helper comuni e pubblicarli come pacchetto interno.
+
