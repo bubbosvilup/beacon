@@ -946,3 +946,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto rischio di regressioni su input malformati.
 - Next: consolidare helper comuni e pubblicarli come pacchetto interno.
 
+## 2026-08-28
+- Snellire script di setup e provisioning.
+- Risultato: ridotto rischio di regressioni su input malformati.
+- Next: aggiornare doc e verificare ripetibilitAÿ da zero.
+
