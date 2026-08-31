@@ -951,3 +951,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto rischio di regressioni su input malformati.
 - Next: aggiornare doc e verificare ripetibilitAÿ da zero.
 
+## 2026-08-31
+- Documentazione: chiarimenti su setup e flusso di lavoro.
+- Risultato: maggiore confidenza nei rollback per sicurezza.
+- Next: chiudere cleanup strutturali emersi durante il lavoro.
+
