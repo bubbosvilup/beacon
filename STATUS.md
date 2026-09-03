@@ -961,3 +961,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto spreco di risorse con caching mirato.
 - Next: mettere in guardia team su cambiamenti breaking.
 
+## 2026-09-03
+- Documentare decisioni di design prese in corsa.
+- Risultato: nomenclatura uniforme facilita ricerca e correlazione.
+- Next: piccoli task mirati, niente espansione di scope.
+
