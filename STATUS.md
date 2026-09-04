@@ -966,3 +966,8 @@ High-level technical log (sanitized).
 - Risultato: nomenclatura uniforme facilita ricerca e correlazione.
 - Next: piccoli task mirati, niente espansione di scope.
 
+## 2026-09-04
+- Chiarire responsabilita tra servizi e confini API.
+- Risultato: riduzione duplicazioni e minor rischio di regressioni.
+- Next: definire monitor per regressioni note.
+
