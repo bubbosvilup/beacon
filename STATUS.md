@@ -971,3 +971,8 @@ High-level technical log (sanitized).
 - Risultato: riduzione duplicazioni e minor rischio di regressioni.
 - Next: definire monitor per regressioni note.
 
+## 2026-09-05
+- Introdurre guardrail su accessi concorrenti.
+- Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
+- Next: validare usabilita con una sessione rapida con stakeholder.
+
