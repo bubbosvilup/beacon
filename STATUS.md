@@ -976,3 +976,8 @@ High-level technical log (sanitized).
 - Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
 - Next: validare usabilita con una sessione rapida con stakeholder.
 
+## 2026-09-07
+- Chiarire responsabilita tra servizi e confini API.
+- Risultato: minor rumore, piA1 segnale nelle verifiche.
+- Next: definire monitor per regressioni note.
+
