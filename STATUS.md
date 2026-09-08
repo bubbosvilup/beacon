@@ -981,3 +981,8 @@ High-level technical log (sanitized).
 - Risultato: minor rumore, piA1 segnale nelle verifiche.
 - Next: definire monitor per regressioni note.
 
+## 2026-09-08
+- Documentare decisioni di design prese in corsa.
+- Risultato: deploy piu prevedibile con check automatici.
+- Next: rimuovere fallback temporanei introdotti per sblocco.
+
