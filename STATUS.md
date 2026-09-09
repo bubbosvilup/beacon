@@ -986,3 +986,8 @@ High-level technical log (sanitized).
 - Risultato: deploy piu prevedibile con check automatici.
 - Next: rimuovere fallback temporanei introdotti per sblocco.
 
+## 2026-09-09
+- Refactor mirato su struttura e responsabilitAÿ dei moduli.
+- Risultato: tempi di build/test ridotti e piu stabili.
+- Next: piccoli task mirati, niente espansione di scope.
+
