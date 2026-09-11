@@ -991,3 +991,8 @@ High-level technical log (sanitized).
 - Risultato: tempi di build/test ridotti e piu stabili.
 - Next: piccoli task mirati, niente espansione di scope.
 
+## 2026-09-11
+- Ridurre latenza del percorso critico con micro-ottimizzazioni.
+- Risultato: codice piA1 leggibile e prevedibile.
+- Next: allineare checklist di rilascio con le ultime modifiche.
+
