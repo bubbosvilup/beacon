@@ -996,3 +996,8 @@ High-level technical log (sanitized).
 - Risultato: codice piA1 leggibile e prevedibile.
 - Next: allineare checklist di rilascio con le ultime modifiche.
 
+## 2026-09-12
+- Testing leggero: sanity checks e regressioni rapide.
+- Risultato: metriche minime disponibili per capire lo stato.
+- Next: verificare impatto prestazionale con dati reali.
+
