@@ -1001,3 +1001,8 @@ High-level technical log (sanitized).
 - Risultato: metriche minime disponibili per capire lo stato.
 - Next: verificare impatto prestazionale con dati reali.
 
+## 2026-09-14
+- Rendere ripetibili i check manuali con script.
+- Risultato: riduzione duplicazioni e minor rischio di regressioni.
+- Next: rivedere naming e convenzioni con il team.
+
