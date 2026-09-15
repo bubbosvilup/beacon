@@ -1006,3 +1006,8 @@ High-level technical log (sanitized).
 - Risultato: riduzione duplicazioni e minor rischio di regressioni.
 - Next: rivedere naming e convenzioni con il team.
 
+## 2026-09-15
+- Documentare decisioni di design prese in corsa.
+- Risultato: team allineato con note e decisioni condivise.
+- Next: rimuovere fallback temporanei introdotti per sblocco.
+
