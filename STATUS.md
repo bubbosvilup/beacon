@@ -1011,3 +1011,8 @@ High-level technical log (sanitized).
 - Risultato: team allineato con note e decisioni condivise.
 - Next: rimuovere fallback temporanei introdotti per sblocco.
 
+## 2026-09-16
+- Prototipazione controllata: validazione di un approccio.
+- Risultato: tempi di build/test ridotti e piu stabili.
+- Next: micro-iterazione su stabilitAÿ e naming coerente.
+
