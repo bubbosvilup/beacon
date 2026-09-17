@@ -1016,3 +1016,8 @@ High-level technical log (sanitized).
 - Risultato: tempi di build/test ridotti e piu stabili.
 - Next: micro-iterazione su stabilitAÿ e naming coerente.
 
+## 2026-09-17
+- Sperimentare alternativa tecnica con proof of concept rapido.
+- Risultato: baseline piA1 stabile per iterazioni successive.
+- Next: consolidare con test minimi e pulizia finale.
+
