@@ -1021,3 +1021,8 @@ High-level technical log (sanitized).
 - Risultato: baseline piA1 stabile per iterazioni successive.
 - Next: consolidare con test minimi e pulizia finale.
 
+## 2026-09-18
+- Rendere piu chiari i messaggi di log per oncall.
+- Risultato: abilitata sperimentazione sicura via feature flag.
+- Next: pulire dati legacy e chiudere migrazioni pendenti.
+
