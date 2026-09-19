@@ -1026,3 +1026,8 @@ High-level technical log (sanitized).
 - Risultato: abilitata sperimentazione sicura via feature flag.
 - Next: pulire dati legacy e chiudere migrazioni pendenti.
 
+## 2026-09-19
+- Consolidamento toolchain e pulizia configurazioni.
+- Risultato: meno configurazioni duplicate e default sensati.
+- Next: isolare meglio i confini e migliorare interfacce.
+
