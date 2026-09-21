@@ -1031,3 +1031,8 @@ High-level technical log (sanitized).
 - Risultato: meno configurazioni duplicate e default sensati.
 - Next: isolare meglio i confini e migliorare interfacce.
 
+## 2026-09-21
+- Ridurre dimensione dei bundle/artefatti generati.
+- Risultato: pipeline di deployment meno rumorosa e piu veloce.
+- Next: aggiungere test di contratto tra servizi.
+
