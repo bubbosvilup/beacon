@@ -1036,3 +1036,8 @@ High-level technical log (sanitized).
 - Risultato: pipeline di deployment meno rumorosa e piu veloce.
 - Next: aggiungere test di contratto tra servizi.
 
+## 2026-09-22
+- Pulizia tecnica: rimozione dead code e naming coerente.
+- Risultato: struttura piA1 pulita, meno attrito nel proseguire.
+- Next: aggiornare doc e verificare ripetibilitAÿ da zero.
+
