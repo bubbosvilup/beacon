@@ -1041,3 +1041,8 @@ High-level technical log (sanitized).
 - Risultato: struttura piA1 pulita, meno attrito nel proseguire.
 - Next: aggiornare doc e verificare ripetibilitAÿ da zero.
 
+## 2026-09-24
+- Introdurre metriche minime per capire impatto dei cambiamenti.
+- Risultato: flusso di setup piu rapido e documentato.
+- Next: segmentare carico per evitare hotspot.
+
