@@ -1046,3 +1046,8 @@ High-level technical log (sanitized).
 - Risultato: flusso di setup piu rapido e documentato.
 - Next: segmentare carico per evitare hotspot.
 
+## 2026-09-25
+- Migliorare gestione errori con categorie e recovery.
+- Risultato: team allineato con note e decisioni condivise.
+- Next: preparare doc breve per on-call/hand-off.
+
