@@ -1051,3 +1051,8 @@ High-level technical log (sanitized).
 - Risultato: team allineato con note e decisioni condivise.
 - Next: preparare doc breve per on-call/hand-off.
 
+## 2026-09-29
+- Prototipazione controllata: validazione di un approccio.
+- Risultato: ridotto spreco di risorse con caching mirato.
+- Next: rimuovere fallback temporanei introdotti per sblocco.
+
