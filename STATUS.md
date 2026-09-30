@@ -1056,3 +1056,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto spreco di risorse con caching mirato.
 - Next: rimuovere fallback temporanei introdotti per sblocco.
 
+## 2026-09-30
+- Uniformare stile dei test e fixare flaky storici.
+- Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
+- Next: rifinire i punti critici e rimuovere TODO residui.
+
