@@ -1061,3 +1061,8 @@ High-level technical log (sanitized).
 - Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
 - Next: rifinire i punti critici e rimuovere TODO residui.
 
+## 2026-10-01
+- Chiudere debiti veloci che bloccano refactor piu grandi.
+- Risultato: test resi piu affidabili e meno flakey.
+- Next: definire monitor per regressioni note.
+
