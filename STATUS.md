@@ -1066,3 +1066,8 @@ High-level technical log (sanitized).
 - Risultato: test resi piu affidabili e meno flakey.
 - Next: definire monitor per regressioni note.
 
+## 2026-10-02
+- Ottimizzazione: riduzione complessitAÿ e ridondanze.
+- Risultato: ridotto rischio di regressioni su input malformati.
+- Next: mettere in guardia team su cambiamenti breaking.
+
