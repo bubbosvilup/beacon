@@ -1071,3 +1071,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto rischio di regressioni su input malformati.
 - Next: mettere in guardia team su cambiamenti breaking.
 
+## 2026-10-03
+- Consolidamento toolchain e pulizia configurazioni.
+- Risultato: ridotto attrito tra moduli e responsabilita piu nette.
+- Next: rimuovere fallback temporanei introdotti per sblocco.
+
