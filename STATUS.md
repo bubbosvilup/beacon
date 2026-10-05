@@ -1076,3 +1076,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto attrito tra moduli e responsabilita piu nette.
 - Next: rimuovere fallback temporanei introdotti per sblocco.
 
+## 2026-10-05
+- Verificare memoria e risorse in scenari stressati.
+- Risultato: riduzione duplicazioni e minor rischio di regressioni.
+- Next: chiudere cleanup strutturali emersi durante il lavoro.
+
