@@ -1081,3 +1081,8 @@ High-level technical log (sanitized).
 - Risultato: riduzione duplicazioni e minor rischio di regressioni.
 - Next: chiudere cleanup strutturali emersi durante il lavoro.
 
+## 2026-10-06
+- Portare a zero warning emersi nell'ultima build.
+- Risultato: documentazione operativa pronta per l'on-call.
+- Next: aggiornare doc e verificare ripetibilitAÿ da zero.
+
