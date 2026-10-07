@@ -1086,3 +1086,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione operativa pronta per l'on-call.
 - Next: aggiornare doc e verificare ripetibilitAÿ da zero.
 
+## 2026-10-07
+- Rendere ripetibili i check manuali con script.
+- Risultato: refactor guidato da invarianti espliciti.
+- Next: profilare dove serve e ottimizzare con criterio.
+
