@@ -1091,3 +1091,8 @@ High-level technical log (sanitized).
 - Risultato: refactor guidato da invarianti espliciti.
 - Next: profilare dove serve e ottimizzare con criterio.
 
+## 2026-10-08
+- Revisione API interne e semplificazione interfacce.
+- Risultato: componenti legacy incapsulati e meno invasivi.
+- Next: isolare meglio i confini e migliorare interfacce.
+
