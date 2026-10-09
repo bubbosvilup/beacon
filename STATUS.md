@@ -1096,3 +1096,8 @@ High-level technical log (sanitized).
 - Risultato: componenti legacy incapsulati e meno invasivi.
 - Next: isolare meglio i confini e migliorare interfacce.
 
+## 2026-10-09
+- Creare esempi d'uso essenziali per le API esposte.
+- Risultato: maggiore copertura su scenari critici.
+- Next: definire monitor per regressioni note.
+
