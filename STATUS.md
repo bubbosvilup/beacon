@@ -1101,3 +1101,8 @@ High-level technical log (sanitized).
 - Risultato: maggiore copertura su scenari critici.
 - Next: definire monitor per regressioni note.
 
+## 2026-10-10
+- Testing leggero: sanity checks e regressioni rapide.
+- Risultato: ridotto attrito tra moduli e responsabilita piu nette.
+- Next: segmentare carico per evitare hotspot.
+
