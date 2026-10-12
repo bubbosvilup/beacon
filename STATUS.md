@@ -1106,3 +1106,8 @@ High-level technical log (sanitized).
 - Risultato: ridotto attrito tra moduli e responsabilita piu nette.
 - Next: segmentare carico per evitare hotspot.
 
+## 2026-10-12
+- Revisione API interne e semplificazione interfacce.
+- Risultato: log piu leggibili e azionabili in produzione.
+- Next: verificare impatto prestazionale con dati reali.
+
