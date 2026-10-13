@@ -1111,3 +1111,8 @@ High-level technical log (sanitized).
 - Risultato: log piu leggibili e azionabili in produzione.
 - Next: verificare impatto prestazionale con dati reali.
 
+## 2026-10-13
+- Rendere prevedibile la coda di job e la loro priorita.
+- Risultato: deploy piu prevedibile con check automatici.
+- Next: chiudere il giro con un pass di revisione generale.
+
