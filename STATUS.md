@@ -1116,3 +1116,8 @@ High-level technical log (sanitized).
 - Risultato: deploy piu prevedibile con check automatici.
 - Next: chiudere il giro con un pass di revisione generale.
 
+## 2026-10-14
+- Documentare decisioni di design prese in corsa.
+- Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
+- Next: rivedere naming e convenzioni con il team.
+
