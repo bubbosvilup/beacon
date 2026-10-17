@@ -1121,3 +1121,8 @@ High-level technical log (sanitized).
 - Risultato: migliorata manutenibilitAÿ e chiarezza delle responsabilitAÿ.
 - Next: rivedere naming e convenzioni con il team.
 
+## 2026-10-17
+- Rendere piu chiari i messaggi di log per oncall.
+- Risultato: minor rumore, piA1 segnale nelle verifiche.
+- Next: consolidare con test minimi e pulizia finale.
+
