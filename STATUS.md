@@ -1126,3 +1126,8 @@ High-level technical log (sanitized).
 - Risultato: minor rumore, piA1 segnale nelle verifiche.
 - Next: consolidare con test minimi e pulizia finale.
 
+## 2026-10-24
+- Hardening: riduzione rischi e controlli difensivi.
+- Risultato: tempi di build/test ridotti e piu stabili.
+- Next: pulire dati legacy e chiudere migrazioni pendenti.
+
