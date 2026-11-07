@@ -1131,3 +1131,8 @@ High-level technical log (sanitized).
 - Risultato: tempi di build/test ridotti e piu stabili.
 - Next: pulire dati legacy e chiudere migrazioni pendenti.
 
+## 2026-11-07
+- Documentare decisioni di design prese in corsa.
+- Risultato: documentazione sufficiente per ripartire senza contesto.
+- Next: semplificare flusso di build/deploy eliminando step superflui.
+
