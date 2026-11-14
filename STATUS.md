@@ -1136,3 +1136,8 @@ High-level technical log (sanitized).
 - Risultato: documentazione sufficiente per ripartire senza contesto.
 - Next: semplificare flusso di build/deploy eliminando step superflui.
 
+## 2026-11-14
+- Documentazione: chiarimenti su setup e flusso di lavoro.
+- Risultato: abilitata sperimentazione sicura via feature flag.
+- Next: mettere in guardia team su cambiamenti breaking.
+
